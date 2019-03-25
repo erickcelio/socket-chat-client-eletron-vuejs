@@ -8,6 +8,7 @@
         </span>
         <system-information></system-information>
       </div>
+      <router-link to="/home">Home</router-link>
 
       <div class="right-side">
         <div class="doc">
